@@ -5,3 +5,4 @@ The Markdown
 주로 대회나 어떤 프로젝트의 진척상황, 그에 대한 감상을 적는 공간이 되지 않을까 하고 생각하고 있습니다.<br>
 <br>
 1. [후배를 위한 Github - 저장소 만들기](https://github.com/huna3869/hunadiary/blob/master/github-for-freshman.md)
+2. [Make-A-Thon : 이틀 간 죄송했습니다](https://github.com/huna3869/hunadiary/blob/master/make-a-thon.md)

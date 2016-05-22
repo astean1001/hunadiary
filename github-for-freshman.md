@@ -10,7 +10,7 @@ Github의 개념에 대해서 "Github란 저장소에 나의 컴퓨터에 있던
 <br>
 Github 홈페이지에서 우선 Repository를 생성하겠지. 이미 모든 과정을 한번씩 따라해 보았다고 하니 스크린샷은 그냥 첨가하지 않을거야. 만약 생성중에 Readme.md를 자동 생성해주는 옵션같은 것들을 체크하지 않았다면, 정말 그냥 빈 저장소가 생겼을 거야. 그리고 Github는 너에게 저장소에 최소한 README.md 정도의 파일이라도 채워두라고 할거야. 아래 스크린샷처럼 말이지. 
 <br><br>
-<img src="https://trello-attachments.s3.amazonaws.com/5741dd3a13c7c65ecfe51848/1049x652/21b19b05cb1b7c8065eb9f331cc37859/스크린샷_2016-05-23_오전_1.23.54.png" width="700"></img><br>
+<img src="/imgs/github-for-freshman/a.png" width="700"></img><br>
 <br>그럼 우리는 컴퓨터로 가서 일단 저장소 이름과 같은 폴더를 하나 만들거야. 위의 스크린샷의 경우에는 hunadiary라는 폴더를 어딘가에 만들겠지. 그리고는 거기 안에 README.md든 무엇이든 우리가 넣고 싶은 파일을 집어넣을 거야. 그리고 이제는 업로드를 할 건데, 여기가 네가 질문한 부분이었지. <br><br>
 ```
 myaccount@macbook ~/hunadiary> git status
@@ -41,7 +41,7 @@ git commit -m “Add Readme.txt”
 <br>
 commit 뒤에 붙은 -m 옵션은 나중에 github에 저장되었을 때 보면 
 <br><br>
-<img src="https://trello-attachments.s3.amazonaws.com/5741dd3a13c7c65ecfe51848/1031x137/ca6857964197143bfe496988f87be946/스크린샷_2016-05-23_오전_2.00.21.png" width="700"></img>
+<img src="/imgs/github-for-freshman/b.png" width="700"></img>
 <br><br>
 위처럼 메시지가 추가되서 전송돼. (나는 initial commit이라고 보냈어.)
 <br><br>

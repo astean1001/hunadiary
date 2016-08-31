@@ -3,6 +3,7 @@ BoB Web Hacking CTF 강남백반 팀 Write-Up
 2016.08.27 강남 미림타워 BoB 센터에서 작성<br>
 2016.08.31 한양대학교 ERICA 캠퍼스에서 업로드
 <br><br>
+[CTF 문제 파일 / 설치법](https://github.com/huna3869/hunadiary/blob/master/Uploads/bobctf/)<br>
 출제도 풀이도 모두 즐거웠던 BoB Web Hacking CTF가 끝이 났습니다. 출제를 할 당시에, 많은 분들이 해킹에 능통하시기 때문에 처음에는 조금 더 복잡한 형태의 문제를 내길 바랬습니다만, 만들면 만들수록 억지스러운 방법을 요구하는 것 같아서 최대한 자연스러운 형태로 접근하기 어려운 문제를 내어보고자 하는 취지에서 간단한 Race Condition 문제를 출제 했습니다. 실제로 대회에서도 기대했던 대로 3-4팀 정도가 풀어 주셨습니다.
 <br>
 # 1. 의도한 취약점 : Race Condition
